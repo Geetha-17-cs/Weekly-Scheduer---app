@@ -1,2 +1,5 @@
-# Weekly - Scheduer - app
-Created a simple Weekly Scheduler using Enhanced Switch - case statements in java.
+# Weekly Schedule Planner - Java
+        A console-based day planner built using Enhanced Switch Expressions.
+## How to Run
+javac WeeklySchedule.java
+java WeeklySchedule
